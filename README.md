@@ -1,0 +1,2 @@
+# dvee-cart
+Dvee Cart is an Ecommerce system build on a solid modular CodeIgniter framework and flexi cart toolkit. It&amp;#8217;s a simple and convenient way to setup, monitor and manage your store. Deck is built to help you to start selling your products with very little effort and simple modules and packages like inventory management, order management, online payments, a robust shopping cart and much more
